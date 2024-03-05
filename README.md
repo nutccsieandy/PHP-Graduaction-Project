@@ -1,4 +1,4 @@
-# PHP-Graduaction-Project
+# PHP-Graduaction-Project(PHP畢業專題)
 #### This is a Graduaction Project which is made by three students in NTCUST.
 #### 1.專案製作人:
 #### (1).資工五乙 陳德恩(WEB程式設計+系統管理)(副組長)
