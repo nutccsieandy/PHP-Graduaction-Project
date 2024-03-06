@@ -15,5 +15,5 @@
 #### 4.畢業專題名稱-以數位轉型改善偏鄉程式設計教育
 #### 資料庫與伺服器建設方式
 #### PS:透過AppServ套件安裝Apache、MySQL，帳號root密碼使用sf6210sf。
+#### 資料庫結構圖如下
 <img width="893" alt="DB結構圖" src="https://github.com/nutccsieandy/PHP-Graduaction-Project/assets/91305887/1c9e5e31-805a-40d2-a352-fff18edfd828">
-#### 圖一.資料庫結構圖
