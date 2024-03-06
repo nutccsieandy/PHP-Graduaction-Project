@@ -8,7 +8,7 @@
 #### 2.使用技術
 #### (1).前端:HTML+CSS+JS(部分使用BootStrap)
 #### (2).後端:PHP+MySQL
-#### (3).伺服器:Windows Server 2022+Apache Server
+#### (3).伺服器:Windows Server 2022+Apache Server(使用WAMP套件)
 #### PS:部分網站設計取材自網路公開資料
 #### 3.專案內容:
 #### 此專案為一個可提供Python程式設計教學的網站，目的在於改善偏鄉程式設計教育。
