@@ -13,3 +13,6 @@
 #### 3.專案內容:
 #### 此專案為一個可提供Python程式設計教學的網站，目的在於改善偏鄉程式設計教育。
 #### 4.畢業專題名稱-以數位轉型改善偏鄉程式設計教育
+#### 資料庫與伺服器建設方式
+#### PS:透過AppServ套件安裝Apache、MySQL，帳號root密碼使用sf6210sf。
+<img width="893" alt="DB結構圖" src="https://github.com/nutccsieandy/PHP-Graduaction-Project/assets/91305887/1c9e5e31-805a-40d2-a352-fff18edfd828">
